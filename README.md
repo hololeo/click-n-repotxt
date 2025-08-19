@@ -26,12 +26,12 @@ javascript:(function(){function convertGithubUrl(){const url=document.location.h
    - Navigate to any GitHub repository page (public repositories work best)
    - Click your "Click 'n' RepoTxt" bookmark
    - The page will automatically redirect to process the repository contents
-   - Once loaded, you'll see **Download** and **Copy** buttons in the top-right corner
+   - Once fully loaded, **click the bookmark again** and you'll see **Download** and **Copy** buttons in the top-right corner
    - **Download**: Saves the repo contents as a `.txt` file (named after the repo)
    - **Copy**: Copies all content to your clipboard for pasting elsewhere
 
 ### Features:
-- ✅ **One-click operation** - Just bookmark and click
+- ✅ **One-click-click operation** - Just navigate to repo and  and click bookmarklet twice
 - ✅ **Smart file naming** - Downloads use the repository name (e.g., `my-repo.txt`)
 - ✅ **Multiple output options** - Download as file OR copy to clipboard
 - ✅ **Branch support** - Works with main/master branches and specific paths
