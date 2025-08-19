@@ -5,6 +5,9 @@ Powered by [uithub.com](https://uithub.com/) - an amazing service for GitHub rep
 
 **If this work has been helpful to you, you can support it for free by clicking ⭐ to star this repository!**
 
+<img width="759" height="493" alt="Screenshot 2025-08-19 at 8 15 57 AM" src="https://github.com/user-attachments/assets/165e5610-fa0e-4a8c-9ad8-8ce99b95d550" />
+
+
 ### Quickly Convert GitHub Repos to Downloadable Text with Bookmarklet
 
 To quickly convert any GitHub repository to downloadable plain text format, follow these steps:
