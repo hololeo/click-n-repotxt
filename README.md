@@ -3,8 +3,6 @@ A bookmarklet for rapid repo text extraction. Just click and download!
 
 Powered by [uithub.com](https://uithub.com/) - an amazing service for GitHub repository content extraction.
 
-<img src="https://github.com/user-attachments/assets/placeholder-icon" width="150">
-
 **If this work has been helpful to you, you can support it for free by clicking ⭐ to star this repository!**
 
 ### Quickly Convert GitHub Repos to Downloadable Text with Bookmarklet
